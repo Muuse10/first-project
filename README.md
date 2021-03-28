@@ -1,5 +1,3 @@
 # first-project
 ## names 
-maxamed
-muuse
-khaali
+muuse khadar maxamed
